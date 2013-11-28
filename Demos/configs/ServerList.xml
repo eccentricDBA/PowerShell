@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<ServerList>
+<Server name='SQL2012'></Server>
+<Server name='SQL2008R2'></Server>
+<Server name='BadServer'></Server>
+</ServerList>
