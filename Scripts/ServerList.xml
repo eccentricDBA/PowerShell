@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<ServerList>
+<Server name='.'></Server>
+<Server name='BadServer'></Server>
+<Server name='AnotherBadServer'></Server>
+</ServerList>

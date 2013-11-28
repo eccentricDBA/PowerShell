@@ -1,0 +1,3 @@
+.
+BadServer
+AnotherBadServer
